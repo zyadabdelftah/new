@@ -1,0 +1,45 @@
+
+
+
+
+body{
+    background-color:black;
+    
+}
+
+
+
+
+
+
+
+
+
+.pp{
+    background-color: blue;
+    height: 100px;
+    width: 1200px;
+    font-size: 44px;
+}
+
+
+.tab{
+height: 300;
+width: 200;
+background-color: white;
+
+
+}
+h4{
+    background-color: white;
+    height: 190;
+    width: 200;
+    border-radius: 50%;
+}
+.mab{
+    height: 550px;
+    width: 550px;
+    background-color: white;
+    border-radius:50% ;
+    font-size:40px;
+}
